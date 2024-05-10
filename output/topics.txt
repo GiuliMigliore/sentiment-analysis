@@ -1,0 +1,405 @@
+LDA results English:
+
+[(3,
+  '0.010*"months" + 0.009*"like" + 0.008*"users" + 0.006*"years" + 0.006*"use" '
+  '+ 0.005*"million" + 0.005*"work" + 0.005*"code" + 0.005*"write" + '
+  '0.005*"asked"'),
+ (35,
+  '0.010*"data" + 0.008*"like" + 0.008*"others" + 0.008*"introducing" + '
+  '0.008*"asked" + 0.007*"us" + 0.006*"one" + 0.006*"see" + 0.006*"google" + '
+  '0.006*"using"'),
+ (1,
+  '0.013*"think" + 0.011*"writing" + 0.011*"ok" + 0.009*"peaked" + '
+  '0.007*"holidays" + 0.007*"amp" + 0.006*"code" + 0.006*"using" + '
+  '0.006*"lets" + 0.005*"people"'),
+ (5,
+  '0.008*"think" + 0.007*"could" + 0.007*"months" + 0.006*"google" + '
+  '0.005*"become" + 0.005*"asked" + 0.005*"years" + 0.005*"incredible" + '
+  '0.004*"time" + 0.004*"moment"'),
+ (21,
+  '0.019*"billion" + 0.011*"musk" + 0.008*"like" + 0.007*"elon" + '
+  '0.006*"could" + 0.006*"amp" + 0.006*"good" + 0.006*"human" + 0.006*"worth" '
+  '+ 0.006*"it"'),
+ (29,
+  '0.013*"write" + 0.012*"alliekmiller" + 0.008*"asked" + 0.007*"please" + '
+  '0.007*"today" + 0.007*"one" + 0.006*"work" + 0.006*"generate" + 0.006*"new" '
+  '+ 0.006*"save"'),
+ (10,
+  '0.049*"months" + 0.024*"took" + 0.024*"users" + 0.023*"netflix" + '
+  '0.017*"years" + 0.015*"instagram" + 0.015*"days" + 0.013*"time" + '
+  '0.013*"crossed" + 0.013*"volodarik"'),
+ (4,
+  '0.020*"like" + 0.012*"comcast" + 0.010*"bill" + 0.010*"donotpay" + '
+  '0.010*"jbrowder" + 0.009*"extension" + 0.009*"something" + 0.009*"chrome" + '
+  '0.008*"future" + 0.007*"building"'),
+ (26,
+  '0.010*"asked" + 0.009*"months" + 0.008*"amp" + 0.007*"like" + '
+  '0.007*"change" + 0.007*"last" + 0.006*"mind" + 0.006*"years" + 0.006*"year" '
+  '+ 0.006*"people"'),
+ (37,
+  '0.013*"amp" + 0.010*"asked" + 0.010*"months" + 0.007*"users" + 0.007*"like" '
+  '+ 0.007*"days" + 0.005*"took" + 0.005*"crossed" + 0.005*"things" + '
+  '0.004*"twitter"'),
+ (9,
+  '0.014*"like" + 0.011*"aws" + 0.008*"questions" + 0.008*"use" + '
+  '0.007*"google" + 0.007*"crazy" + 0.006*"cloud" + 0.005*"search" + '
+  '0.005*"asked" + 0.005*"certified"'),
+ (31,
+  '0.011*"take" + 0.011*"using" + 0.010*"let" + 0.009*"find" + 0.008*"many" + '
+  '0.008*"run" + 0.007*"used" + 0.007*"intelligence" + 0.006*"artificial" + '
+  '0.006*"code"'),
+ (20,
+  '0.016*"going" + 0.008*"youre" + 0.008*"bot" + 0.007*"chat" + 0.007*"text" + '
+  '0.007*"new" + 0.007*"future" + 0.007*"one" + 0.006*"like" + 0.006*"change"'),
+ (14,
+  '0.018*"months" + 0.012*"years" + 0.010*"time" + 0.010*"users" + 0.010*"get" '
+  '+ 0.009*"took" + 0.009*"twitter" + 0.008*"million" + 0.008*"netflix" + '
+  '0.007*"chatbot"'),
+ (30,
+  '0.016*"months" + 0.013*"use" + 0.010*"users" + 0.009*"took" + 0.008*"days" '
+  '+ 0.008*"cases" + 0.007*"blockchain" + 0.007*"weeks" + 0.007*"netflix" + '
+  '0.007*"time"'),
+ (28,
+  '0.080*"months" + 0.042*"users" + 0.040*"took" + 0.039*"netflix" + '
+  '0.036*"days" + 0.035*"crossed" + 0.035*"instagram" + 0.034*"compare" + '
+  '0.034*"volodarik" + 0.034*"fb"'),
+ (0,
+  '0.013*"elon" + 0.012*"done" + 0.011*"write" + 0.008*"youve" + '
+  '0.007*"chatbot" + 0.006*"week" + 0.006*"twitter" + 0.006*"data" + '
+  '0.006*"nothing" + 0.005*"raised"'),
+ (7,
+  '0.010*"like" + 0.006*"new" + 0.006*"asked" + 0.006*"write" + 0.005*"sure" + '
+  '0.005*"pretty" + 0.005*"data" + 0.005*"openais" + 0.005*"think" + '
+  '0.005*"can"'),
+ (22,
+  '0.015*"months" + 0.012*"years" + 0.011*"google" + 0.010*"disrupted" + '
+  '0.009*"like" + 0.008*"time" + 0.008*"users" + 0.008*"search" + '
+  '0.008*"million" + 0.007*"use"'),
+ (34,
+  '0.012*"like" + 0.008*"write" + 0.008*"time" + 0.006*"months" + '
+  '0.005*"something" + 0.005*"playing" + 0.005*"use" + 0.005*"weekend" + '
+  '0.005*"you" + 0.005*"tools"')]
+
+LDA results Spanish:
+
+[(3,
+  '0.009*"si" + 0.009*"freddier" + 0.008*"trabajo" + 0.008*"dias" + '
+  '0.007*"inteligencia" + 0.007*"ia" + 0.007*"didacoroi" + 0.007*"artificial" '
+  '+ 0.006*"aqui" + 0.005*"hecho"'),
+ (0,
+  '0.011*"ia" + 0.011*"si" + 0.008*"como" + 0.007*"anos" + 0.006*"meses" + '
+  '0.006*"artificial" + 0.006*"inteligencia" + 0.005*"dotcsv" + 0.005*"tiempo" '
+  '+ 0.005*"puede"'),
+ (14,
+  '0.014*"si" + 0.010*"inteligencia" + 0.010*"artificial" + 0.008*"primer" + '
+  '0.007*"ia" + 0.007*"freddier" + 0.007*"hacer" + 0.005*"programadores" + '
+  '0.005*"copilot" + 0.005*"van"'),
+ (28,
+  '0.018*"inteligencia" + 0.016*"artificial" + 0.008*"encantamiento" + '
+  '0.008*"falacias" + 0.008*"hace" + 0.007*"bolivarinmortal" + 0.006*"sabe" + '
+  '0.006*"vtvcanal" + 0.006*"https" + 0.006*"solo"'),
+ (37,
+  '0.014*"si" + 0.013*"anos" + 0.012*"ia" + 0.011*"meses" + 0.010*"artificial" '
+  '+ 0.010*"inteligencia" + 0.006*"usuarios" + 0.006*"tiempo" + 0.006*"como" + '
+  '0.006*"millon"'),
+ (29,
+  '0.012*"ia" + 0.009*"va" + 0.007*"hacer" + 0.007*"ahora" + 0.007*"como" + '
+  '0.007*"hace" + 0.006*"internet" + 0.006*"si" + 0.005*"solo" + 0.005*"cada"'),
+ (11,
+  '0.027*"freddier" + 0.018*"stable" + 0.018*"diffusion" + 0.018*"mujer" + '
+  '0.018*"ia" + 0.018*"gpt" + 0.018*"social" + 0.018*"pasas" + 0.018*"media" + '
+  '0.018*"papa"'),
+ (1,
+  '0.012*"ia" + 0.012*"inteligencia" + 0.011*"artificial" + 0.011*"freddier" + '
+  '0.010*"si" + 0.008*"creo" + 0.005*"se" + 0.005*"mal" + 0.004*"google" + '
+  '0.004*"alexserramar"'),
+ (22,
+  '0.015*"google" + 0.007*"si" + 0.007*"ia" + 0.006*"respuestas" + '
+  '0.005*"creo" + 0.005*"dias" + 0.005*"puedes" + 0.005*"freddier" + '
+  '0.005*"ahora" + 0.005*"alexserramar"'),
+ (38,
+  '0.018*"inteligencia" + 0.017*"artificial" + 0.016*"ia" + 0.011*"google" + '
+  '0.010*"si" + 0.006*"anos" + 0.006*"encantamiento" + 0.006*"falacias" + '
+  '0.006*"trabajo" + 0.006*"bolivarinmortal"'),
+ (4,
+  '0.016*"dias" + 0.015*"ultimos" + 0.015*"creo" + 0.014*"flipando" + '
+  '0.014*"alexserramar" + 0.014*"rapido" + 0.014*"webs" + 0.014*"salido" + '
+  '0.014*"ido" + 0.014*"integracion"'),
+ (18,
+  '0.011*"ia" + 0.009*"inteligencia" + 0.009*"artificial" + 0.008*"como" + '
+  '0.008*"si" + 0.007*"va" + 0.006*"google" + 0.005*"ahora" + '
+  '0.005*"respuestas" + 0.005*"tan"'),
+ (2,
+  '0.021*"inteligencia" + 0.021*"artificial" + 0.009*"puede" + 0.008*"ia" + '
+  '0.006*"ser" + 0.005*"nueva" + 0.005*"como" + 0.005*"si" + 0.005*"va" + '
+  '0.004*"freddier"'),
+ (17,
+  '0.017*"inteligencia" + 0.017*"artificial" + 0.015*"si" + 0.011*"ia" + '
+  '0.006*"falacias" + 0.006*"encantamiento" + 0.006*"freddier" + '
+  '0.006*"bolivarinmortal" + 0.005*"vtvcanal" + 0.005*"https"'),
+ (7,
+  '0.015*"ia" + 0.014*"si" + 0.012*"artificial" + 0.012*"inteligencia" + '
+  '0.010*"como" + 0.005*"puede" + 0.005*"aqui" + 0.004*"usar" + '
+  '0.004*"personas" + 0.004*"google"'),
+ (26,
+  '0.010*"freddier" + 0.008*"todas" + 0.008*"tweets" + 0.008*"social" + '
+  '0.008*"stable" + 0.008*"gpt" + 0.008*"papa" + 0.008*"mujer" + 0.007*"fotos" '
+  '+ 0.007*"diffusion"'),
+ (32,
+  '0.020*"creo" + 0.020*"dias" + 0.019*"alexserramar" + 0.019*"flipando" + '
+  '0.018*"ultimos" + 0.018*"salido" + 0.018*"webs" + 0.018*"rapido" + '
+  '0.018*"ido" + 0.018*"integracion"'),
+ (6,
+  '0.028*"si" + 0.019*"usando" + 0.018*"se" + 0.017*"personas" + '
+  '0.016*"loogic" + 0.016*"veo" + 0.016*"genai" + 0.016*"imaginacion" + '
+  '0.016*"fal" + 0.010*"como"'),
+ (33,
+  '0.023*"inteligencia" + 0.022*"artificial" + 0.019*"ia" + '
+  '0.010*"bolivarinmortal" + 0.010*"falacias" + 0.010*"encantamiento" + '
+  '0.009*"https" + 0.009*"vtvcanal" + 0.008*"freddier" + 0.008*"todas"'),
+ (13,
+  '0.011*"freddier" + 0.008*"trabajo" + 0.007*"hacer" + 0.007*"solo" + '
+  '0.007*"programar" + 0.006*"usar" + 0.006*"ia" + 0.006*"puede" + '
+  '0.005*"chemaalonso" + 0.005*"stable"')]
+
+LDA results translated to English:
+
+[(3,
+   '0.009*"yes" + 0.009*"freddier" + 0.008*"work" + 0.008*"days" + '
+   '0.007*"intelligence" + 0.007*"ia" + 0.007*"didacoroi" + 0.007*"artificial" '
+   '+ 0.006*"here" + 0.005*"done"'),
+  (0,
+   '0.011*"ia" + 0.011*"yes" + 0.008*"as" + 0.007*"years" + 0.006*"months" + '
+   '0.006*"artificial" + 0.006*"intelligence" + 0.005*"dotcsv" + 0.005*"time" '
+   '+ 0.005*"may"'),
+  (14,
+   '0.014*"yes" + 0.010*"intelligence" + 0.010*"artificial" + 0.008*"first" + '
+   '0.007*"ia" + 0.007*"freddier" + 0.007*"do" + 0.005*"programmers" + '
+   '0.005*"copilot" + 0.005*"van"'),
+  (28,
+   '0.018*"intelligence" + 0.016*"artificial" + 0.008*"enchantment" + '
+   '0.008*"fallacies" + 0.008*"does" + 0.007*"bolivarinmortal" + 0.006*"knows" + '
+   '0.006*"vtvchannel" + 0.006*"https" + 0.006*"only"'),
+  (37,
+   '0.014*"yes" + 0.013*"years" + 0.012*"ia" + 0.011*"months" + 0.010*"artificial" '
+   '+ 0.010*"intelligence" + 0.006*"users" + 0.006*"time" + 0.006*"like" + '
+   '0.006*"million"'),
+  (29,
+   '0.012*"to" + 0.009*"going" + 0.007*"do" + 0.007*"now" + 0.007*"as" + '
+   '0.007*"ago" + 0.006*"internet" + 0.006*"if" + 0.005*"only" + 0.005*"every"'),
+  (eleven,
+   '0.027*"freddier" + 0.018*"stable" + 0.018*"diffusion" + 0.018*"woman" + '
+   '0.018*"ia" + 0.018*"gpt" + 0.018*"social" + 0.018*"raisins" + 0.018*"media" + '
+   '0.018*"potato"'),
+  (1,
+   '0.012*"ia" + 0.012*"intelligence" + 0.011*"artificial" + 0.011*"freddier" + '
+   '0.010*"yes" + 0.008*"I think" + 0.005*"se" + 0.005*"wrong" + 0.004*"google" + '
+   '0.004*"alexserramar"'),
+  (22,
+   '0.015*"google" + 0.007*"yes" + 0.007*"ia" + 0.006*"answers" + '
+   '0.005*"I think" + 0.005*"days" + 0.005*"you can" + 0.005*"freddier" + '
+   '0.005*"now" + 0.005*"alexserramar"'),
+  (38,
+   '0.018*"intelligence" + 0.017*"artificial" + 0.016*"ia" + 0.011*"google" + '
+   '0.010*"yes" + 0.006*"years" + 0.006*"enchantment" + 0.006*"fallacies" + '
+   '0.006*"work" + 0.006*"bolivarinmortal"'),
+  (4,
+   '0.016*"days" + 0.015*"last" + 0.015*"I think" + 0.014*"freaking out" + '
+   '0.014*"alexserramar" + 0.014*"rapido" + 0.014*"webs" + 0.014*"exit" + '
+   '0.014*"gone" + 0.014*"integration"'),
+  (18,
+   '0.011*"ia" + 0.009*"intelligence" + 0.009*"artificial" + 0.008*"as" + '
+   '0.008*"yes" + 0.007*"going" + 0.006*"google" + 0.005*"now" + '
+   '0.005*"answers" + 0.005*"so"'),
+  (2,
+   '0.021*"intelligence" + 0.021*"artificial" + 0.009*"can" + 0.008*"ia" + '
+   '0.006*"be" + 0.005*"new" + 0.005*"as" + 0.005*"if" + 0.005*"going" + '
+   '0.004*"freddier"'),
+  (17,
+   '0.017*"intelligence" + 0.017*"artificial" + 0.015*"si" + 0.011*"ia" + '
+   '0.006*"fallacies" + 0.006*"enchantment" + 0.006*"freddier" + '
+   '0.006*"bolivarinmortal" + 0.005*"vtvcanal" + 0.005*"https"'),
+  (7,
+   '0.015*"ia" + 0.014*"si" + 0.012*"artificial" + 0.012*"intelligence" + '
+   '0.010*"as" + 0.005*"can" + 0.005*"here" + 0.004*"use" + '
+   '0.004*"people" + 0.004*"google"'),
+  (26,
+   '0.010*"freddier" + 0.008*"all" + 0.008*"tweets" + 0.008*"social" + '
+   '0.008*"stable" + 0.008*"gpt" + 0.008*"papa" + 0.008*"woman" + 0.007*"photos" '
+   '+ 0.007*"diffusion"'),
+  (32,
+   '0.020*"I think" + 0.020*"days" + 0.019*"alexserramar" + 0.019*"flipando" + '
+   '0.018*"latest" + 0.018*"exit" + 0.018*"websites" + 0.018*"fast" + '
+   '0.018*"gone" + 0.018*"integration"'),
+  (6,
+   '0.028*"yes" + 0.019*"using" + 0.018*"se" + 0.017*"people" + '
+   '0.016*"loogic" + 0.016*"see" + 0.016*"genai" + 0.016*"imagination" + '
+   '0.016*"false' + 0.010*"as"'),
+  (33,
+   '0.023*"intelligence" + 0.022*"artificial" + 0.019*"ia" + '
+   '0.010*"bolivarinmortal" + 0.010*"fallacies" + 0.010*"enchantment" + '
+   '0.009*"https" + 0.009*"vtvcanal" + 0.008*"freddier" + 0.008*"all"'),
+  (13,
+   '0.011*"freddier" + 0.008*"work" + 0.007*"do" + 0.007*"alone" + '
+   '0.007*"schedule" + 0.006*"use" + 0.006*"ia" + 0.006*"can" + '
+   '0.005*"chemaalonso" + 0.005*"stable"')]
+
+LDA Results French:
+
+[(24,
+  '0.046*"ai" + 0.023*"avoir" + 0.023*"openai" + 0.023*"redige" + 0.022*"xfto" '
+  '+ 0.022*"apres" + 0.022*"heures" + 0.022*"passe" + 0.022*"document" + '
+  '0.022*"decide"'),
+ (39,
+  '0.010*"ai" + 0.008*"faire" + 0.008*"openai" + 0.007*"jai" + 0.007*"cest" + '
+  '0.007*"monde" + 0.006*"apres" + 0.006*"quelques" + 0.006*"plus" + '
+  '0.006*"passe"'),
+ (1,
+  '0.018*"litteralement" + 0.017*"ca" + 0.016*"artificielle" + 0.015*"peut" + '
+  '0.015*"plus" + 0.015*"thread" + 0.014*"lintelligence" + 0.014*"jamais" + '
+  '0.013*"changer" + 0.012*"concue"'),
+ (11,
+  '0.024*"jai" + 0.021*"amp" + 0.020*"depuis" + 0.020*"prompts" + '
+  '0.020*"trouve" + 0.020*"place" + 0.020*"jours" + 0.020*"fonction" + '
+  '0.020*"pr" + 0.020*"bhmcp"'),
+ (2,
+  '0.017*"artificielle" + 0.013*"plus" + 0.013*"thread" + '
+  '0.011*"lintelligence" + 0.010*"pourquoi" + 0.009*"cest" + 0.008*"peut" + '
+  '0.007*"revolution" + 0.007*"ca" + 0.007*"ia"'),
+ (35,
+  '0.018*"ia" + 0.013*"ca" + 0.013*"plus" + 0.008*"fait" + 0.006*"un" + '
+  '0.006*"etre" + 0.006*"cest" + 0.005*"peut" + 0.005*"faire" + 0.005*"tout"'),
+ (19,
+  '0.019*"jai" + 0.011*"cette" + 0.009*"thread" + 0.008*"ia" + 0.008*"depuis" '
+  '+ 0.008*"cest" + 0.007*"faire" + 0.007*"place" + 0.007*"trouve" + '
+  '0.006*"cree"'),
+ (10,
+  '0.014*"artificielle" + 0.012*"ca" + 0.011*"cest" + 0.010*"tout" + '
+  '0.009*"thread" + 0.008*"ia" + 0.007*"google" + 0.007*"plus" + '
+  '0.007*"lintelligence" + 0.007*"intelligence"'),
+ (6,
+  '0.009*"jai" + 0.008*"cest" + 0.008*"cree" + 0.007*"voici" + 0.007*"ia" + '
+  '0.007*"cette" + 0.007*"comment" + 0.006*"thread" + 0.006*"artificielle" + '
+  '0.006*"un"'),
+ (12,
+  '0.016*"artificielle" + 0.013*"ca" + 0.013*"plus" + 0.012*"peut" + '
+  '0.011*"lintelligence" + 0.011*"thread" + 0.010*"changer" + '
+  '0.010*"litteralement" + 0.010*"jamais" + 0.010*"adamgopass"'),
+ (30,
+  '0.014*"ca" + 0.012*"artificielle" + 0.010*"thread" + 0.009*"cest" + '
+  '0.009*"peut" + 0.009*"lintelligence" + 0.008*"plus" + 0.007*"toutes" + '
+  '0.007*"deux" + 0.007*"nouvelles"'),
+ (25,
+  '0.020*"plus" + 0.020*"artificielle" + 0.017*"ca" + 0.016*"peut" + '
+  '0.014*"lintelligence" + 0.013*"thread" + 0.013*"litteralement" + '
+  '0.013*"changer" + 0.013*"adamgopass" + 0.013*"jamais"'),
+ (7,
+  '0.014*"ia" + 0.013*"faire" + 0.013*"plus" + 0.008*"comment" + '
+  '0.008*"google" + 0.007*"jai" + 0.007*"ca" + 0.007*"cest" + 0.006*"toutes" + '
+  '0.006*"peut"'),
+ (5,
+  '0.013*"ia" + 0.011*"cest" + 0.010*"plus" + 0.008*"fait" + 0.008*"google" + '
+  '0.007*"ca" + 0.006*"demande" + 0.005*"comment" + 0.005*"jai" + 0.005*"va"'),
+ (23,
+  '0.011*"artificielle" + 0.011*"thread" + 0.009*"est" + 0.008*"ia" + '
+  '0.008*"intelligence" + 0.007*"google" + 0.007*"ca" + 0.007*"jai" + '
+  '0.007*"dopenai" + 0.006*"dalle"'),
+ (38,
+  '0.023*"ai" + 0.017*"jai" + 0.013*"ca" + 0.012*"openai" + 0.012*"apres" + '
+  '0.012*"ia" + 0.011*"passe" + 0.011*"avoir" + 0.011*"heures" + '
+  '0.011*"partager"'),
+ (28,
+  '0.030*"jai" + 0.020*"depuis" + 0.020*"trouve" + 0.020*"place" + '
+  '0.020*"jours" + 0.019*"mis" + 0.019*"prompts" + 0.019*"amp" + 0.019*"bhmcp" '
+  '+ 0.019*"nonstop"'),
+ (31,
+  '0.020*"deux" + 0.020*"fusion" + 0.019*"olivierbabeau" + 0.019*"trucs" + '
+  '0.019*"toutes" + 0.019*"nouvelles" + 0.019*"mo" + 0.019*"medias" + '
+  '0.018*"occuper" + 0.018*"devraient"'),
+ (29,
+  '0.018*"ai" + 0.015*"jai" + 0.012*"redige" + 0.011*"ia" + '
+  '0.011*"artificielle" + 0.010*"passe" + 0.010*"openai" + 0.009*"apres" + '
+  '0.009*"avoir" + 0.009*"decide"'),
+ (14,
+  '0.020*"cest" + 0.010*"ai" + 0.007*"jai" + 0.006*"plus" + 0.006*"tres" + '
+  '0.006*"ia" + 0.005*"lia" + 0.005*"faire" + 0.005*"apres" + 0.005*"ca"')]
+
+LDA Results French translated to English:
+
+[(24,
+   '0.046*"ai" + 0.023*"have" + 0.023*"openai" + 0.023*"redige" + 0.022*"xfto" '
+   '+ 0.022*"after" + 0.022*"hours" + 0.022*"pass" + 0.022*"document" + '
+   '0.022*"decide"'),
+  (39,
+   '0.010*"ai" + 0.008*"do" + 0.008*"openai" + 0.007*"jai" + 0.007*"cest" + '
+   '0.007*"world" + 0.006*"after" + 0.006*"some" + 0.006*"more" + '
+   '0.006*"pass"'),
+  (1,
+   '0.018*"literally" + 0.017*"ca" + 0.016*"artificial" + 0.015*"may" + '
+   '0.015*"more" + 0.015*"thread" + 0.014*"intelligence" + 0.014*"never" + '
+   '0.013*"change" + 0.012*"designed"'),
+  (11,
+   '0.024*"I" + 0.021*"amp" + 0.020*"since" + 0.020*"prompts" + '
+   '0.020*"find" + 0.020*"place" + 0.020*"days" + 0.020*"function" + '
+   '0.020*"pr" + 0.020*"bhmcp"'),
+  (2,
+   '0.017*"artificial" + 0.013*"more" + 0.013*"thread" + '
+   '0.011*"intelligence" + 0.010*"why" + 0.009*"is" + 0.008*"can" + '
+   '0.007*"revolution" + 0.007*"ca" + 0.007*"ia"'),
+  (35,
+   '0.018*"ia" + 0.013*"ca" + 0.013*"more" + 0.008*"done" + 0.006*"a" + '
+   '0.006*"to be" + 0.006*"is" + 0.005*"can" + 0.005*"to do" + 0.005*"all"'),
+  (19,
+   '0.019*"I" + 0.011*"this" + 0.009*"thread" + 0.008*"ia" + 0.008*"since" '
+   '+ 0.008*"this" + 0.007*"do" + 0.007*"place" + 0.007*"find" + '
+   '0.006*"cree"'),
+  (10,
+   '0.014*"artificial" + 0.012*"ca" + 0.011*"cest" + 0.010*"all" + '
+   '0.009*"thread" + 0.008*"ia" + 0.007*"google" + 0.007*"plus" + '
+   '0.007*"intelligence" + 0.007*"intelligence"'),
+  (6,
+   '0.009*"jai" + 0.008*"this" + 0.008*"cree" + 0.007*"here" + 0.007*"ia" + '
+   '0.007*"this" + 0.007*"comment" + 0.006*"thread" + 0.006*"artificial" + '
+   '0.006*"one"'),
+  (12,
+   '0.016*"artificial" + 0.013*"ca" + 0.013*"more" + 0.012*"may" + '
+   '0.011*"intelligence" + 0.011*"thread" + 0.010*"change" + '
+   '0.010*"literally" + 0.010*"never" + 0.010*"adamgopass"'),
+  (30,
+   '0.014*"ca" + 0.012*"artificial" + 0.010*"thread" + 0.009*"cest" + '
+   '0.009*"can" + 0.009*"intelligence" + 0.008*"more" + 0.007*"all" + '
+   '0.007*"two" + 0.007*"news"'),
+  (25,
+   '0.020*"more" + 0.020*"artificial" + 0.017*"ca" + 0.016*"can" + '
+   '0.014*"intelligence" + 0.013*"thread" + 0.013*"literally" + '
+   '0.013*"change" + 0.013*"adamgopass" + 0.013*"never"'),
+  (7,
+   '0.014*"ia" + 0.013*"do" + 0.013*"more" + 0.008*"comment" + '
+   '0.008*"google" + 0.007*"jai" + 0.007*"ca" + 0.007*"cest" + 0.006*"all" + '
+   '0.006*"may"'),
+  (5,
+   '0.013*"ia" + 0.011*"cest" + 0.010*"more" + 0.008*"done" + 0.008*"google" + '
+   '0.007*"that" + 0.006*"request" + 0.005*"comment" + 0.005*"I" + 0.005*"will"'),
+  (23,
+   '0.011*"artificial" + 0.011*"thread" + 0.009*"is" + 0.008*"ia" + '
+   '0.008*"intelligence" + 0.007*"google" + 0.007*"ca" + 0.007*"I have" + '
+   '0.007*"dopenai" + 0.006*"slab"'),
+  (38,
+   '0.023*"ai" + 0.017*"jai" + 0.013*"ca" + 0.012*"openai" + 0.012*"after" + '
+   '0.012*"ia" + 0.011*"pass" + 0.011*"have" + 0.011*"hours" + '
+   '0.011*"share"'),
+  (28,
+   '0.030*"I have" + 0.020*"since" + 0.020*"found" + 0.020*"place" + '
+   '0.020*"days" + 0.019*"mis" + 0.019*"prompts" + 0.019*"amp" + 0.019*"bhmcp" '
+   '+0.019*"nonstop"'),
+  (31,
+   '0.020*"two" + 0.020*"fusion" + 0.019*"olivierbabeau" + 0.019*"stuff" + '
+   '0.019*"all" + 0.019*"news" + 0.019*"mo" + 0.019*"media" + '
+   '0.018*"occupy" + 0.018*"should"'),
+  (29,
+   '0.018*"ai" + 0.015*"jai" + 0.012*"redige" + 0.011*"ia" + '
+   '0.011*"artificial" + 0.010*"pass" + 0.010*"openai" + 0.009*"after" + '
+   '0.009*"have" + 0.009*"decide"'),
+  (14,
+   '0.020*"cest" + 0.010*"ai" + 0.007*"jai" + 0.006*"plus" + 0.006*"tres" + '
+   '0.006*"ia" + 0.005*"lia" + 0.005*"do" + 0.005*"after" + 0.005*"ca"')]
