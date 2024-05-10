@@ -1,0 +1,14 @@
+# Dataset
+
+The dataset contains a total of 666704 tweets, which were all posted between the 6th and the 22nd of December 2022. Each of these tweets has 8 properties, including the text of the tweet itself, the username, the retweet and the language. 
+Overall, the tweets have been written in 63 different languages; the [iso-369 package](https://pypi.org/project/iso639-lang/) was used to identify the full names of the languages contained in the dataset. Since some language abbreviation was not recognized by the package, 3.08% of the tweets fell under the “unknown” category. English is the most common language in the dataset, with 71.31% of tweets.
+Given that ChatGPT was launched on November 30, 2022, there is a noticeable peak in the number of tweets a week after, followed by a decline in the number of tweets that suggest a natural loss of initial excitement and conversation after the launch.
+The dominance of English-language tweets is apparent compared to other languages such as Japanese, Spanish, and French. This could be the result of several factors, such as lower number of users on Twitter for these languages, or cultural differences in the adoption of new technologies.
+
+## Dealing with a multilingual dataset
+
+The Twitter dataset in the folder 'dataset' of this repository contains comments in multiple languages. To increase data processing capacity, exploring more than just English comments is an interesting option. We chose to neglect Japanese, since it is difficult to find a proper tool to preprocess this language, due to its grammatical complexity and limited translation resources and tools available. Instead, we opted for analyzing Spanish and French, which are the second and fourth most common languages among the dataset after Japanese ().
+A possible solution is to use the [Cloud Google API](https://cloud.google.com/apis?hl=it), which allows automatic translation of text from a large number of different languages. Since this API is not free of charge, it was not a viable choice due to our research budget. 
+Other available options consist of translating the dataset using the [translators](https://pypi.org/project/translators/) package or the [googletrans](https://pypi.org/project/googletrans/) library. We tried using both these packages, but, as they need to be executed locally, the translation process becomes excessively time-consuming even for smaller segments of the dataset, making it impractical. 
+A final more functional option is to translate the Spanish and French comments using the function =GOOGLETRANSLATE() in Google Sheets.
+The translation step is required for training VADER, as it only accepts input text in English. However, translation is not needed for topic modeling.
